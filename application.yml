@@ -1,8 +1,3 @@
-spring:
-  application:
-     name: configRepo
-  profiles:
-     active: native
 
 my:
   name: myvalue
