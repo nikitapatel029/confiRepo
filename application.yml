@@ -1,2 +1,10 @@
-name:config-repo-testing
-my.greetings:true
+spring:
+  application:
+     name: configRepo
+  profiles:
+     active: native
+
+my:
+  name: myvalue
+  
+name: testing
