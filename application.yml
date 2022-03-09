@@ -1,5 +1,2 @@
 
-my:
-  name: myvalue
-  
-name: testing
+appName: application-default-environment
